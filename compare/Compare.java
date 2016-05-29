@@ -40,7 +40,7 @@ public class Compare {
 	 * @param str1
 	 * @param str2
 	 * @return einen prozentuell normalisierten Wert zwischen 0 und 1, der die
-	 *         Übereinstimmung angibt
+	 *         Ãœbereinstimmung angibt
 	 */
 	public static float compare_qgram(String str1, String str2) {
 
@@ -57,7 +57,7 @@ public class Compare {
 	 * @param str1
 	 * @param str2
 	 * @return einen prozentuell normalisierten Wert zwischen 0 und 1, der die
-	 *         Übereinstimmung angibt
+	 *         Ãœbereinstimmung angibt
 	 */
 	public static float compare_chapman(String str1, String str2) {
 
