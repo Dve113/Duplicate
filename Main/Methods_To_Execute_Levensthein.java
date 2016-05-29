@@ -24,7 +24,7 @@ public class Methods_To_Execute_Levensthein {
 		try {
 			ExportFile.writeCSVFile_String(end_file, result);
 		} catch (IOException e) {
-			System.out.println("Fehler! Warum weiﬂ keiner... ");
+			System.out.println("Fehler! Warum wei√ü keiner... ");
 			e.printStackTrace();
 		}
 	}
@@ -42,7 +42,7 @@ public class Methods_To_Execute_Levensthein {
 		try {
 			ExportFile.writeCSVFile_String(end_file, result);
 		} catch (IOException e) {
-			System.out.println("Fehler! Warum weiﬂ keiner... ");
+			System.out.println("Fehler! Warum wei√ü keiner... ");
 			e.printStackTrace();
 		}
 	}
@@ -60,7 +60,7 @@ public class Methods_To_Execute_Levensthein {
 		try {
 			ExportFile.writeCSVFile_String(end_file, result);
 		} catch (IOException e) {
-			System.out.println("Fehler! Warum weiﬂ einer... ");
+			System.out.println("Fehler! Warum wei√ü einer... ");
 			e.printStackTrace();
 		}
 	}
@@ -78,7 +78,7 @@ public class Methods_To_Execute_Levensthein {
 		try {
 			ExportFile.writeCSVFile_String(end_file, result);
 		} catch (IOException e) {
-			System.out.println("Fehler! Warum weiﬂ keiner... ");
+			System.out.println("Fehler! Warum wei√ü keiner... ");
 			e.printStackTrace();
 		}
 	}
